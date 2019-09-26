@@ -1,5 +1,5 @@
 from unittest import TestCase
-from com.exdon.operacoes import Operacoes
+from com.Exdon.operacoes import Operacoes
 
 class TestOperacaoes(TestCase):
     def setUp(self):
