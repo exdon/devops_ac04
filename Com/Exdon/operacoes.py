@@ -1,5 +1,5 @@
 import sys
-class Operacoes():
+class operacoes():
 
 
     def multiplicacao(self, valores):
